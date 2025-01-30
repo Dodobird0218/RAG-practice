@@ -20,5 +20,5 @@ ollama pull mistral
 3. 克隆此專案
 
 ```bash
-git clone 
+git clone https://github.com/Dodobird0218/RAG-practice.git
 ```
