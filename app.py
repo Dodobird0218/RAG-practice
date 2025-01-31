@@ -5,7 +5,7 @@ from rag import RAG
 rag = RAG()
 
 # 頁面標題
-st.title("📚 RAG Demo with Ollama & Streamlit")
+st.title("📚 RAG Demo")
 st.markdown("上傳 PDF 並透過 LLM 進行智能問答")
 
 # 使用者輸入問題
