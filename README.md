@@ -28,3 +28,7 @@ python rag.py
 ```bash
 streamlit run app.py
 ```
+
+## 實際demo示範
+<img width="722" alt="demo01" src="https://github.com/user-attachments/assets/07335b05-d285-4674-a837-6837a79533ff" />
+<img width="722" alt="demo02" src="https://github.com/user-attachments/assets/ba345e4e-c03a-4333-b518-e33aec8f268b" />
